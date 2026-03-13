@@ -157,6 +157,9 @@ jupyter notebook notebooks/eeg_analysis.ipynb
 2. Goldberger, A., et al. (2000). PhysioBank, PhysioToolkit, and PhysioNet. *Circulation*, 101(23).
 3. Gramfort, A., et al. (2013). MEG and EEG data analysis with MNE-Python. *Frontiers in Neuroscience*, 7, 267.
 4. Welch, P.D. (1967). The use of fast Fourier transform for the estimation of power spectra. *IEEE Transactions on Audio and Electroacoustics*, 15(2), 70–73.
+5. 5. Rao, R.P.N., Fairhall, A. (University of Washington). 
+   Computational Neuroscience. *Coursera*.
+   https://www.coursera.org/learn/computational-neuroscience
 
 ---
 
@@ -168,10 +171,8 @@ This project is licensed under the MIT License. The dataset is publicly availabl
 
 ## 🙋 Author
 
-**[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+**Sinan Berke AKÇA**
+- GitHub: [@Sinansteiger](https://github.com/Sinansteiger)
+- LinkedIn: [linkedin.com/in/sinan-berke-akça-623716256](https://www.linkedin.com/in/sinan-berke-akça-623716256)
 
 ---
-
-*If you find this project useful, please consider giving it a ⭐*
