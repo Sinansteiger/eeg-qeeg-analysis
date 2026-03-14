@@ -150,7 +150,18 @@ jupyter notebook notebooks/eeg_analysis.ipynb
 | `jupyter` | ≥ 1.0 | Interactive notebook environment |
 
 ---
+## 📈 Visualizations
 
+### Raw vs Filtered Signal
+![Filtering](outputs/01_filtering.png)
+
+### Power Spectral Density
+![PSD Analysis](outputs/02b_psd_normalized.png)
+
+### Topographic Brain Maps
+![Topographic Maps](outputs/03_topomap.png)
+
+---
 ## 📚 References
 
 1. Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. (2004). BCI2000: A general-purpose brain-computer interface system. *IEEE Transactions on Biomedical Engineering*, 51(6), 1034–1043.
